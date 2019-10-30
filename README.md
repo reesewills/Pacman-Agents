@@ -1,2 +1,2 @@
 # Pacman-CTF-Agent
-An AI Pacman agent that can play CTF with other agents
+Different Pacman agents that are created with AI to do different tasks from the Berkley lab
